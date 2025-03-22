@@ -4,6 +4,9 @@
 
 **⚠️CAUTION⚠️: THE SOFTWARE IS NOT FULLY TESTED AND COULD POSSIBLY BRICK YOUR DEVICE!**
 
+**WEBSITE NOW RELEASED GO CHECK IT OUT:**
+https://ezflash.vercel.app/
+
 **EZFlash** is a Tool built for Windows that helps you with flashing software onto your **OnePlus Nord CE 2 Lite CPH2409.**
 
 The software is currently in its **BETA** stage so some functions may not work as intended.
